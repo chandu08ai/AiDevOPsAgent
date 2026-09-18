@@ -6,5 +6,5 @@ Before we send the audio to the backend api, we need to convert it into a 16 KHz
 
 WebSocket VS Rest API: 
              
-              WebSocket:  
+WebSocket:  
                 <img width="359" height="372" alt="image" src="https://github.com/user-attachments/assets/45ec254e-0964-4b18-a0a9-37704a53306f" />
