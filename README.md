@@ -43,7 +43,9 @@ we can start our application using uvicorn command
 > <img width="480" height="317" alt="image" src="https://github.com/user-attachments/assets/a11bcda2-b63e-478e-a692-660c4ed2f35e" />
 > respose_modalities=AUDIO
 >> generate the response as an audio
+
 > the flow will be as follows
+
 >> <img width="200" height="220" alt="image" src="https://github.com/user-attachments/assets/041dedea-753d-4c69-b57a-1918de964141" />
 
 > 
