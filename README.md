@@ -34,6 +34,11 @@ we can start our application using uvicorn command
 > <img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/d7047bdd-3890-4cba-b332-eda76d25da85" />
 > <img width="250" height="270" alt="image" src="https://github.com/user-attachments/assets/33ed7266-1d33-46b2-a2ab-d742709b59fa" />
 
+**Google GenAI Python SDK:**
+> Fast API communicates with Gemini using using SDK called Google GenAI Python SDK.
+> the main python package used for this is google-genai
+> <img width="230" height="125" alt="image" src="https://github.com/user-attachments/assets/0c20c646-bed8-4aea-a346-b41caee109eb" />
+
 
 
 
