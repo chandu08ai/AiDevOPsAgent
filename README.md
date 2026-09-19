@@ -58,7 +58,13 @@ we can start our application using uvicorn command
 - Docker containers
 > <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/c5ed4f3c-6682-4c73-941a-487cdf0fdc92" />
 
-- 
+**How AI Voice is Generated:**
+LIVE_VOICE=Aoede
+- Aoede is the configured **prebuilt Gemini voice.**
+
+
+
+
 
 
 
