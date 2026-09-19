@@ -29,6 +29,10 @@ Uvicorn = Server that runs the FastAPI application
 
 we can start our application using uvicorn command 
 > <img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/d7047bdd-3890-4cba-b332-eda76d25da85" />
+> <img width="324" height="376" alt="image" src="https://github.com/user-attachments/assets/33ed7266-1d33-46b2-a2ab-d742709b59fa" />
+
+
+
 
 
 
