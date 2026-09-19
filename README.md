@@ -50,7 +50,15 @@ we can start our application using uvicorn command
 
 
 **DevOps Tools Functions:**
+- CPU
+- Memory
+- Disk
+- Ports
+- HTTP endpoints
+- Docker containers
+> <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/c5ed4f3c-6682-4c73-941a-487cdf0fdc92" />
 
+- 
 
 
 
