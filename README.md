@@ -12,3 +12,12 @@ RestAPI:
 WebSocket:
 for continuous connection
 <img width="240" height="149" alt="image" src="https://github.com/user-attachments/assets/94bb854a-0762-4e3b-836a-15362a334923" />
+
+Fast API: 
+- most important component in our project
+- it sits between the Browser and Gemini
+- it also connects with the DevOps Environment
+
+
+Fast API performs the following taks:
+<img width="523" height="650" alt="image" src="https://github.com/user-attachments/assets/a1b67eb0-20ab-4b8b-b5b7-2c9dc6ce8796" />
