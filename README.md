@@ -21,4 +21,4 @@ for continuous connection
 
 **Fast API performs the following taks:**
 
-<img width="523" height="650" alt="image" src="https://github.com/user-attachments/assets/a1b67eb0-20ab-4b8b-b5b7-2c9dc6ce8796" />
+<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/a1b67eb0-20ab-4b8b-b5b7-2c9dc6ce8796" />
