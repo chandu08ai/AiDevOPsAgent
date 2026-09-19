@@ -13,7 +13,7 @@ Before we send the audio to the backend api, we need to convert it into a 16 KHz
 
 **WebSocket:**
 for continuous connection
-<img width="240" height="149" alt="image" src="https://github.com/user-attachments/assets/94bb854a-0762-4e3b-836a-15362a334923" />
+> <img width="240" height="149" alt="image" src="https://github.com/user-attachments/assets/94bb854a-0762-4e3b-836a-15362a334923" />
 
 **Fast API:**
 - most important component in our project
