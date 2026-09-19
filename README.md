@@ -27,6 +27,7 @@ for continuous connection
 
 **Uvicorn:**
 > FastAPI = Web application / framework
+
 > Uvicorn = Server that runs the FastAPI application 
 
 we can start our application using uvicorn command 
