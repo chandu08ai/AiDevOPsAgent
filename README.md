@@ -8,3 +8,7 @@ WebSocket VS Rest API:
              
 RestAPI:  
                 <img width="359" height="372" alt="image" src="https://github.com/user-attachments/assets/45ec254e-0964-4b18-a0a9-37704a53306f" />
+
+WebSocket:
+for continuous connection
+<img width="240" height="149" alt="image" src="https://github.com/user-attachments/assets/94bb854a-0762-4e3b-836a-15362a334923" />
