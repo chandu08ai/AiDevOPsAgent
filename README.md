@@ -22,3 +22,14 @@ for continuous connection
 **Fast API performs the following taks:**
 
 <img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/a1b67eb0-20ab-4b8b-b5b7-2c9dc6ce8796" />
+
+**Uvicorn:**
+FastAPI = Web application / framework 
+Uvicorn = Server that runs the FastAPI application 
+
+we can start our application using uvicorn command 
+> <img width="698" height="202" alt="image" src="https://github.com/user-attachments/assets/d7047bdd-3890-4cba-b332-eda76d25da85" />
+
+
+
+
